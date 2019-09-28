@@ -6,3 +6,5 @@ Keys:
 - Q/W to zoom in/out
 - C to change the color scheme
 - Esc to exit
+
+![Screenshot](mandelbrot.png)
